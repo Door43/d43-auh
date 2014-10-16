@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auh:home|Door43 (auh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auh|d43-auh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auh/archive/master.zip|d43-auh.zip]]
+
+**Recent Changes**
+{{changes>ns = auh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auh|Ethnologue data]]
+
